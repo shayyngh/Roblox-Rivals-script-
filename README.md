@@ -4,7 +4,7 @@ Murci script for Pc
 
 
 Instruction:
-Download the file and run it, everything you will need will be intalled to your pc.
+Download the file and run it, everything you will need will be intalled to your pc. (it will say virus detected because its a cheating script, ignore it.
 
 
 Support:
